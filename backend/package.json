@@ -1,0 +1,13 @@
+{
+  "name": "lab-02",
+  "version": "1.0.0",
+  "description": "Lab 02 - Flat Mongoose API with Express",
+  "scripts": {
+    "seed": "node seed.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "mongoose": "^8.0.0"
+  }
+}
